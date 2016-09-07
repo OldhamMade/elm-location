@@ -1,0 +1,17 @@
+{
+    "exposed-modules": [
+        "Location"
+    ], 
+    "native-modules": true, 
+    "elm-version": "0.15.0 <= v < 0.18.0", 
+    "version": "1.0.0", 
+    "dependencies": {
+        "elm-lang/core": "2.0.0 <= v < 4.0.0"
+    }, 
+    "repository": "https://github.com/OldhamMade/elm-location.git", 
+    "license": "BSD3", 
+    "summary": "Browser Location in Elm", 
+    "source-directories": [
+        "src"
+    ]
+}
