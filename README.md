@@ -3,7 +3,7 @@
 This is a fork of [elm-community/elm-history](http://package.elm-lang.org/packages/elm-community/elm-history/latest),
 specifically splitting out the `Location` module to make it independent and usable with Elm `0.17`.
 
-**Note:** This is not yet compatible with Elm `0.17`. See [Tasks](#Tasks) below.
+**Note:** This is not yet compatible with Elm `0.17`. See [Tasks](#tasks) below.
 
 ## API
 
